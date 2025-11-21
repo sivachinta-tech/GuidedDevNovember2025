@@ -85,12 +85,27 @@
           "A4": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
           "A5": "0a7af68b-46bd-49e0-acbf-3f05365b0bdc",
           "IL2": "1a7547f6-7470-4d5d-a295-4e65af021105",
-          "BL3": "600;81",
+          "BL3": "610;184",
           "BL7": "1bd93619-0574-454e-bb4e-cf53b9eb9470",
           "BL8": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
           "BN2": "31;31",
           "BO3": true,
           "FC1": []
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaExclusiveGateway",
+          "UId": "56ee055a-50eb-4642-aa02-217283abe2a7",
+          "A2": "ExclusiveGateway1",
+          "A3": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "A4": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "A5": "0a7af68b-46bd-49e0-acbf-3f05365b0bdc",
+          "IL2": "1a7547f6-7470-4d5d-a295-4e65af021105",
+          "BL3": "299;172",
+          "BL7": "bd9f7570-6c97-4f16-90e5-663a190c6c7c",
+          "BL8": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "BN2": "55;55",
+          "BO3": true,
+          "HH2": []
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
@@ -102,18 +117,28 @@
           "BL7": "0d8351f6-c2f4-4737-bdd9-6fbfe0837fec",
           "BL8": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
           "CI1": "32118dce-263c-421b-9a02-f0df25bfd7ca",
-          "CI2": "7dccfbf6-62a1-41cc-a878-6ae4ec59b495",
+          "CI2": "56ee055a-50eb-4642-aa02-217283abe2a7",
           "CI3": "null",
           "CI5": "FF939598",
           "CI6": 1,
-          "CI7": "1;0",
-          "CI8": "-1;0",
           "CI11": "81;200",
-          "CI12": "600;97",
-          "CI10": {
-            "Item0": "341;200",
-            "Item1": "341;97"
-          }
+          "CI12": "299;200"
+        },
+        {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaSequenceFlow",
+          "UId": "70b62cf6-8ce1-4b22-9d31-74bc5113209a",
+          "A2": "DefaultSequenceFlow1",
+          "A3": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "A4": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "A5": "0a7af68b-46bd-49e0-acbf-3f05365b0bdc",
+          "BL7": "573ed909-e069-4161-b193-ae8dd9437c68",
+          "BL8": "c355ab9c-bd67-497c-a411-6ea7639e7fd5",
+          "CI1": "56ee055a-50eb-4642-aa02-217283abe2a7",
+          "CI2": "7dccfbf6-62a1-41cc-a878-6ae4ec59b495",
+          "CI3": "null",
+          "CI4": 1,
+          "CI5": "FF939598",
+          "CI6": 1
         }
       ],
       "BK9": [],
