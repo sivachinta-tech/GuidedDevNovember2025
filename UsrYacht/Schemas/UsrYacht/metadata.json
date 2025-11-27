@@ -113,7 +113,7 @@
 }
 + MetaData.Schema.D2 {
   "UId": "c4810a60-a976-fe4a-e6c6-2ec6cc9609be",
-  "A2": "UsrColmment",
+  "A2": "UsrComment",
   "A3": "9dcd617d-39c1-4dde-ac3d-ba9e41cf8a5a",
   "A4": "9dcd617d-39c1-4dde-ac3d-ba9e41cf8a5a",
   "A5": "68e5f59b-4bf7-4695-a654-c104ad2311d1",
@@ -122,7 +122,7 @@
 }
 + MetaData.Schema.D2 {
   "UId": "ebceb890-8289-36ac-9438-4da771e467cc",
-  "A2": "UsrColumn9",
+  "A2": "UsrRegCode",
   "A3": "9dcd617d-39c1-4dde-ac3d-ba9e41cf8a5a",
   "A4": "9dcd617d-39c1-4dde-ac3d-ba9e41cf8a5a",
   "A5": "68e5f59b-4bf7-4695-a654-c104ad2311d1",
