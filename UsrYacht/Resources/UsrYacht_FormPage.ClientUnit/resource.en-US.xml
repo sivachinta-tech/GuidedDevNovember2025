@@ -9,6 +9,7 @@
 			<Item Name="LocalizableStrings.addRecord_f9wie1y_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_qwg57th_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_u1pmsvb_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.EmailInput_flntlbj_label.Value" Value="Manager email" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>

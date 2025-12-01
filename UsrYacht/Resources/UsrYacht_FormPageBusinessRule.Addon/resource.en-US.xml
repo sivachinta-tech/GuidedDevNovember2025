@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="AddonConfig.Rules.67c794f6-6464-67c3-7f6c-2e38c5c2cf3e.Caption" Value="Show elements: Comment" />
+			<Item Name="AddonConfig.Rules.a4a58b24-78be-4d14-3fb1-10928ac45870.Caption" Value="Show elements: Ticket price, USD" />
 			<Item Name="Caption" Value="Yacht form page (Business rules)" />
 		</Items>
 	</Group>
